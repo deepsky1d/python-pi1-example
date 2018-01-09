@@ -1,3 +1,7 @@
 #!/usr/bin/phython3
 
-print("Hello World")
+def main(msg):
+    print(msg)
+
+
+main("Hello World People")
